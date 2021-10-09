@@ -1,0 +1,10 @@
+.gist{
+    width: 51rem;
+    
+}
+.todo-list{
+  position: absolute;
+    left: 19rem;
+    top: 20rem;
+    list-style-type: none;
+}

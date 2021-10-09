@@ -1,0 +1,40 @@
+.card{
+    position: absolute;
+    left: 29rem;
+    top: 2rem;
+    width: 35rem;
+    height: 16rem;
+}
+.form{   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form input{
+    border: none;
+    border: 1px solid rgb(37, 37, 37);
+    border-radius: 1rem;
+    width: 95%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 1.5rem;
+    align-self: flex-start;
+}
+.form label{
+    font-size: 1.3rem;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    align-self: flex-start;
+}
+.form button{
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    padding: 0.6rem;
+    width: 10rem;
+    align-self: flex-end;
+}
