@@ -30,11 +30,6 @@
     align-self: flex-start;
 }
 .form button{
-    background-color: rgb(37, 37, 37);
-    border: none;
-    border-radius: 1rem;
-    color: white;
-    padding: 0.6rem;
     width: 10rem;
     align-self: flex-end;
 }

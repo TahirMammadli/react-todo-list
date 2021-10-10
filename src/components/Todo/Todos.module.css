@@ -1,10 +1,6 @@
-.gist{
-    width: 51rem;
-    
-}
-.todo-list{
+
+.todos{
   position: absolute;
-    left: 19rem;
-    top: 20rem;
-    list-style-type: none;
+  left: 19rem;
+  top: 20rem;
 }
